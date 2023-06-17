@@ -1,0 +1,16 @@
+<entities >
+  <entity name="businessunit" displayname="Business Unit" etc="10" primaryidfield="businessunitid" primarynamefield="name" disableplugins="false">
+    <fields>
+      <field displayname="Name" name="name" type="string" />
+      <field displayname="Business Unit" name="businessunitid" type="guid" primaryKey="true" />
+    </fields>
+    <filter>&lt;filter type="or"&gt;
+  &lt;condition attribute="name" operator="eq" value="Buses" /&gt;
+  &lt;condition attribute="name" operator="eq" value="Underground" /&gt;  
+  &lt;condition attribute="name" operator="eq" value="Overground" /&gt;
+  &lt;condition attribute="name" operator="eq" value="Customer Service Manager" /&gt;
+  &lt;condition attribute="name" operator="eq" value="Escalation Team" /&gt;
+  &lt;condition attribute="name" operator="eq" value="Confidential Case Team" /&gt;
+&lt;/filter&gt;</filter>
+  </entity>
+</entities>
