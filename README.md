@@ -3,17 +3,16 @@
 ## Business Units Configuration Data
 
 Business units are imported with the Power Platform CLI.  
-Connect to the correct organisation.  
-If not already, create an auth profile to the correct org.  
+  
+Unless there is one already, create an auth profile to the correct org.  
 ```
 pac auth create --url https://bwcodingchallenge.crm4.dynamics.com
 ```
-Select the correct auth profile.  
-Replace 1 with the correct profile.  
+Select the correct auth profile. Replace 1 with the correct profile.  
 ```
 pac auth select -i 1
 ```
-Then import the business units  
+Import the business units  
 ```
 pac data import -d .\data.zip
 ```
@@ -23,9 +22,9 @@ Place customer service agents in their corresponding business.
  - Buses
  - Overground
 
- Place managers in the Customer Service Manager BU.  
- Place confidential case team members in the Confidential Case Team BU.  
- Place escalationt team members on the Escalation Team BU.  
+ Place managers in the "Customer Service Manager" BU.  
+ Place confidential case team members in the "Confidential Case Team" BU.  
+ Place escalationt team members on the "Escalation Team" BU.  
 
 ## Security Roles Manual Assignment
 
