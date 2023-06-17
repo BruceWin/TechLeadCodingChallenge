@@ -1,6 +1,6 @@
 # TfL Tech Lead Coding Challenge
 
-## Business Units Configuration Data
+## Business Unit Configuration Data
 
 Business units are imported with the Power Platform CLI.  
   
