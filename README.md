@@ -2,14 +2,14 @@
 
 ## Business Units Configuration Data
 
-Business units are imported with the Power Platform CLI.\
-Connect to the correct organisation.\
-If not already, create an auth profile to the correct org.\
+Business units are imported with the Power Platform CLI.  
+Connect to the correct organisation.  
+If not already, create an auth profile to the correct org.  
     pac auth create --url https://bwcodingchallenge.crm4.dynamics.com
-Select the correct auth profile.\
-Replace 1 with the correct profile.\
+Select the correct auth profile.  
+Replace 1 with the correct profile.  
     pac auth select -i 1
-Then import the business units\
+Then import the business units  
     pac data import -d .\data.zip
 
 Place customer service agents in their corresponding business.
