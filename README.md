@@ -6,7 +6,7 @@ Business units require manual setup as below:
 
 ![image][def]
 
-[def]: Business_Units.png
+[def]: Business_Units.PNG
 
 ## Plugins
 
