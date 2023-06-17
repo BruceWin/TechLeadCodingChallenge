@@ -26,7 +26,7 @@ Place customer service agents in their corresponding business.
  Place confidential case team members in the "Confidential Case Team" BU.  
  Place escalationt team members on the "Escalation Team" BU.  
 
-## Security Roles Manual Assignment
+## Security Role Manual Assignment
 
  Grant the "Buses" team the "Customer Service Agent" security role.  
  Grant the "Overground" team the "Customer Service Agent" security role.  
