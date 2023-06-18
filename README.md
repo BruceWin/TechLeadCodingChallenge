@@ -4,7 +4,7 @@
 
 Business units are imported with the Power Platform CLI.  
   
-Unless there is one already, create an auth profile to the correct org.  
+Unless there is one already, create an auth profile for the correct org.  
 ```
 pac auth create --url https://bwcodingchallenge.crm4.dynamics.com
 ```
