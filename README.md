@@ -1,5 +1,10 @@
 # TfL Tech Lead Coding Challenge
 
+## Managed Solution
+
+Download the managed solution here:
+[a relative link](DataverseSolution/TfLCodingChallenge_1_0_1_1_managed.zip)
+
 ## Business Unit Configuration Data
 
 Business units are imported with the Power Platform CLI.  
