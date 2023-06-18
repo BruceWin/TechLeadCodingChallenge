@@ -40,14 +40,22 @@ Place customer service agents in their corresponding business.
  Grant the "Customer Service Manager" team the "Customer Service Manager" security role.  
  Grant the "Escalation Team" team the "Escalation Team" security role.  
  Grant the "Confidential Case Team" team the "Confidential Case Team" security role.  
-
-
-## Plugin Description
-
-StopCaseResolutionPlugin allows case resolution only for users with the "Customer Service Manager" role.  
-
-Tests use NUnit and FakeItEasy.  
+ 
 
 ## Case Documents
 
 Image attachments associated with the case, contact, and email are included in the follow up.
+
+## Plugin: Stop Case Resolution
+
+StopCaseResolutionPlugin allows case resolution only for users with the "Customer Service Manager" role.  
+
+Tests use NUnit and FakeItEasy. 
+
+## Command Bar JavaScript
+
+JavaScript is used by a command bar button to create follow ups.
+
+## Power Automate
+
+Power Automate is used to copy documents to a follow up.
