@@ -23,7 +23,7 @@ Import the business units
 pac data import -d .\data.zip
 ```
 
-Place customer service agents in their corresponding business.  
+Place customer service agents in their corresponding business unit.  
  - Underground
  - Buses
  - Overground
