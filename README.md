@@ -8,6 +8,7 @@
 ## Business Unit Configuration Data
 
 Business units are imported with the Power Platform CLI.  
+[Config data](ConfigData/data.zip)
   
 Unless there is one already, create an auth profile for the correct org.  
 ```
