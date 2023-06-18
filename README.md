@@ -1,9 +1,9 @@
 # TfL Tech Lead Coding Challenge
 
-## Managed Solution
+## Dataverse Solutions
 
-Download the managed solution here:
-[a relative link](DataverseSolution/TfLCodingChallenge_1_0_1_1_managed.zip)
+[Managed Solution](DataverseSolution/TfLCodingChallenge_1_0_1_1_managed.zip)
+[Unmanaged Solution](DataverseSolution/TfLCodingChallenge_1_0_1_1.zip)
 
 ## Business Unit Configuration Data
 
