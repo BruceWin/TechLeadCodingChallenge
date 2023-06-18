@@ -59,3 +59,8 @@ JavaScript is used by a command bar button to create follow ups.
 ## Power Automate
 
 Power Automate is used to copy documents to a follow up.
+
+## Model Driven App
+
+There is a single model driven app called CCO.
+The sitemap only shows tables that the user has access to.
