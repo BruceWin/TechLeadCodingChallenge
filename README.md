@@ -62,5 +62,5 @@ Power Automate is used to copy documents to a follow up.
 
 ## Model Driven App
 
-There is a single model driven app called CCO.
+There is a single model driven app called CCO.  
 The sitemap only shows tables that the user has access to.
