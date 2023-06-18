@@ -42,3 +42,7 @@ Place customer service agents in their corresponding business.
 StopCaseResolutionPlugin allows case resolution only for users with the "Customer Service Manager" role.  
 
 Tests use NUnit and FakeItEasy.  
+
+## Case Documents
+
+Image attachments associated with the case, contact, and email are included in the follow up.
